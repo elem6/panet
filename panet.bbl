@@ -1,0 +1,149 @@
+\begin{thebibliography}{99}
+  \providecommand{\natexlab}[1]{#1}
+  \providecommand{\url}[1]{\texttt{#1}}
+  \expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+  
+\bibitem[LeCun et~al. (2015)LeCun]{deeplearning}
+  Y. LeCun, Y. Bengio, G.E. Hinton.
+  \newblock Deep learning.
+  \newblock In \emph{Nature}, 521, pages 436--444, 2015.
+
+\bibitem[Feynman (1948)Feynman]{feynman}
+  R.P. Feynman.
+  \newblock Space-time approach to non-relativistic quantum mechanics.
+  \newblock In \emph{Rev. Mod. Phys.}, vol. 20, pages 368-387, 1948.
+  
+\bibitem[Cybenko (1989)Cybenko]{cybenko}
+  G. Cybenko.
+  \newblock Approximations by superpositions of a sigmoidal function.
+  \newblock In \emph{Mathematics of Control, Signals and Systems}, vol. 2, pages 303--314, 1989.
+
+\bibitem[Hornik et~al. (1989)Hornik]{hornik}
+  K. Hornik, M. Stinchcombe, and H. White.
+  \newblock Multilayer feedforward networks are universal approximators.
+  \newblock In \emph{Neural Networks} {\bf 2}, pages 210--215, 1989.
+
+\bibitem[Leshno et~al. (1993)Leshno]{leshno}
+  M. Leshno, V.Y. Lin, A. Pinkus, and S. Schocken.
+  \newblock Multilayer feedforward networks with a nonpolynomial activation function can approximate any function.
+  \newblock In \emph{Neural Networks}, vol. 6, pages 861--867, 1993.
+  
+\bibitem[Sonoda et~al. (2017)Sonoda]{sonoda}
+  S. Sonoda and N. Murata.
+  \newblock Neural network with unbounded activation functions is universal approximator.
+  \newblock In \emph{Applied and Computational Harmonic Analysis}, vol. 43, pages 233-268, 2017.
+  
+\bibitem[LeCun (2002)LeCun]{tanh}
+  Y. LeCun, L. Bottou, G.B. Orr, and K. Müller.
+  \newblock Efficient backprop.
+  \newblock In \emph{Neural Networks: Tricks of the Trade}, pages 9--50, 2002.
+  
+\bibitem[Nair et~al.. (2010)Nair]{relu}
+  V. Nair and G.E. Hinton.
+  \newblock Rectified linear units improve restricted Boltzmann machines.
+  \newblock In \emph{Proceedings of the 27th international conference on machine learning (ICML-10)},
+  pages 807--814, 2010.
+
+\bibitem[Glorot et~al. (2011)Glorot]{deep_sparse}
+  X. Glorot, A. Bordes, and Y. Bengio.
+  \newblock Deep sparse rectifier neural networks.
+  \newblock In \emph{Proc. 14th International Conference on Artificial Intelligence and Statistics},
+  pages 315--323, 2011.
+
+\bibitem[Broomhead et~al. (1988)Broomhead]{broomhead}
+  D.S. Broomhead and D. Lowe.
+  \newblock Multivariable functional interpolation and adaptive networks.
+  \newblock In \emph{Complex Systems} {\bf 2}, pages 321--355, 1988.
+
+\bibitem[Park et~al. (1991)Park]{park}
+  J. Park and I.W. Sandberg.
+  \newblock Universal approximation using radial-basis-function networks.
+  \newblock In \emph{Neural Computation} {\bf 3}, pages 246--257, 1991.  
+
+\bibitem[Zhang et~al. (2017)Zhang]{zhang}
+  C. Zhang, S. Bengio, M. Hardt, B. Recht, and O. Vinyals.
+  \newblock Understanding deep learning requires rethinking generalization.
+  \newblock In \emph{ICLR} 2017.
+  
+\bibitem[Glorot et~al. (2010)Glorot]{glorot}
+  X. Glorot and Y. Bengio.
+  \newblock Understanding the difficulty of training deep feedforward neural networks.
+  \newblock In \emph{Proc. AISTATS}, vol 9, pages 249--256, 2010.
+
+\bibitem[LeCun et~al. (1998)LeCun]{MNIST}
+  Y. LeCun, C. Cortes, and C. Burges.
+  \newblock The mnist database of handwritten digits, 1998.
+
+\bibitem[LeCun et~al. (1998)Lecun]{convnet}
+  Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner.
+  \newblock Gradient-based learning applied to document recognition.
+  \newblock In \emph{Proceedings of the IEEE}, vol 86, pages 2278 -- 2324, 1998.
+
+\bibitem[Kolmogorov (1957)Kolmogorov]{kolmogorov}
+  A.N. Kolmogorov.
+  \newblock On the representation of continuous functions of many variables by superpositions of continuous functions of one variable and addition.
+  \newblock In \emph{Doklay Akademii Nauk USSR}, 114, pages 953 -- 956, 1957.
+
+\bibitem[Arnold (1958)Arnold]{arnold}
+  V.I. Arnold.
+  \newblock On the representation of functions of several variables as a superposition of functions of a smaller number of variables.
+  \newblock In \emph{Mat. Prosveshchenie} {\bf 3}, 41 -- 61, (1958); \emph{Vladimir I. Arnold - Collected Works}, vol 1, pages 25 -- 46, 2009.
+
+\bibitem[Hecht-Nielsen (1987)Hecht-Nielsen]{hecht-nielsen}
+  R. Hecht-Nielsen.
+  \newblock Kolmogorov's mapping neural network existence theorem.
+  \newblock In \emph{Proceedings of the IEEE First International Conference on Neural Networks}, vol. III, pages 11--13, 1978.
+
+\bibitem[Rumelhart et~al. (1986)Rumelhart]{rnn}
+  D. Rumelhart, G. Hinton, and R. Williams.
+  \newblock Learning representations by back-propagating errors.
+  \newblock In \emph{Nature}, 323, pages 533--536, 1986.
+
+\bibitem[Maas et~al. (2013)Maas]{maas}
+  A.L. Maas, A.Y. Hannun, and A.Y. Ng.
+  \newblock Rectifier nonlinearities improve neural network acoustic models.
+  \newblock In \emph{ICML Workshop on Deep Learning for Audio, Speech, and Language Processing}, 2013.
+
+\bibitem[He et~al. (2015)]{he}
+  K. He, X. Zhang, S. Ren, and J. Sun
+  \newblock Delving deep into rectifiers:  Surpassing human-level performance on imagenet classification.
+  \newblock In \emph{IEEE International Conference on Computer Vision (ICCV)}, 2015.
+  
+\bibitem[Xu et~al. (2015)Xu]{xu}
+  B. Xu, N. Wang, T. Chen, and M. Li.
+  \newblock Empirical evaluation of rectified activations in convolutional network.
+  \newblock In \emph{arXiv preprint}, arXiv:1505.00853, 2015.
+
+\bibitem[Clevert et~al. (2015)Clevert]{elu}
+  D.-A. Clevert, T. Unterthiner, and S. Hochreiter.
+  \newblock Fast and accurate deep network learning by exponential linear units (ELUs).
+  \newblock In \emph{ICLR}, 2016.
+
+\bibitem[Sabour et~al. (2017)Sabour]{capsnet}
+  S. Sabour, N. Frosst, and G.E. Hinton.
+  \newblock Dynamic routing between capsules.
+  \newblock In \emph{NIPS}, 2017. 
+  
+\bibitem[Arjovsky et~al. (2016)Arjovsky]{unitary}
+  M. Arjovsky, A. Shah, and Y. Bengio.
+  \newblock Unitary evolution recurrent neural networks.
+  \newblock In \emph{International  Conference  on  Machine  Learning}, pages 1120--1128, 2016.
+
+\bibitem[Minemoto et~al. (2017)Minemoto]{minemoto}
+  T. Minemoto, T. Isokawa, H. Nishimura, and N. Matsui.
+  \newblock Feed forward neural network with random quaternionic neurons.
+  \newblock In \emph{Signal Processing}, vol. 136, pages 59--68, 2017.
+
+\bibitem[Gaudet et~al. (2017)Gaudet]{dqn}
+  C.J. Gaudet, A.S. Maida.
+  \newblock Deep quaternion networks
+  \newblock In \emph{arXiv preprint}, arXiv:1712.004604, 2017. 
+  
+\bibitem[Trabelsi et~al. (2018)Trabelsi]{dcn}
+  C. Trabelsi, O. Bilaniuk, Y. Zhang, D. Serdyuk, S. Subramanian, J. Santos, S. Mehri, N. Rostamzadeh, Y. Bengio, C. J. Pal.
+  \newblock Deep complex networks.
+  \newblock In \emph{ICLR}, 2018.
+
+\end{thebibliography}
